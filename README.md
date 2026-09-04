@@ -43,28 +43,6 @@ I'm passionate about building practical software, developing scalable applicatio
 
 ## ⚡ What I Build
 
-```text
-                         💡 IDEA
-                           │
-                           ▼
-                     🎨 DESIGN
-                           │
-                           ▼
-                   💻 DEVELOPMENT
-                           │
-                           ▼
-                     ⚙️ BACKEND
-                           │
-                           ▼
-                    🧪 TESTING
-                           │
-                           ▼
-                     ☁️ DEPLOY
-                           │
-                           ▼
-                    🚀 SOFTWARE
-```
-
 🌐 Modern business websites
 💻 Full-stack web applications
 🔐 Backend APIs and services
@@ -135,36 +113,7 @@ Whether I'm working on a frontend interface, REST API, database architecture or 
 
 ---
 
-<div align="center">
 
-# 🎯 Development Focus
-
-```text
-                    FULL-STACK DEVELOPMENT
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-            ▼                 ▼                 ▼
-        🎨 FRONTEND       ⚙️ BACKEND        🗄️ DATA
-            │                 │                 │
-        React             Laravel           MySQL
-        TypeScript        Java              PostgreSQL
-        Next.js           Spring Boot       Supabase
-        Tailwind          Node.js
-            │                 │
-            └─────────────────┼─────────────────┘
-                              │
-                              ▼
-                         ☁️ CLOUD
-                              │
-                       Vercel / Render
-                       Netlify / APIs
-                              │
-                              ▼
-                         🚀 DEPLOY
-```
-
-</div>
 
 ---
 
