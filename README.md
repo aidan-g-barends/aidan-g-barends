@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AidanBarends">
+  <a href="https://github.com/aidan-g-barends">
     <img src="https://komarev.com/ghpvc/?username=AidanBarends&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
 </p>
@@ -130,18 +130,6 @@ Whether I'm working on a frontend interface, REST API, database architecture or 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aidan-g-barends&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aidan-g-barends/Aidanaidan-g-barendsBarends/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aidan-g-barends/aidan-g-barends/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aidan-g-barends/aidan-g-barends/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
 
 ---
