@@ -101,13 +101,12 @@ Whether I'm working on a frontend interface, REST API, database architecture or 
 
 # 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=aidan-g-barends&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aidan-g-barends&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aidan-g-barends&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aidan-g-barends&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidan-g-barends&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=aidan-g-barends&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
 
