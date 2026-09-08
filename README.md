@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;IT+Intern;Building+Modern+Web+Applications;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=aidan-g-barends&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+
 
 </div>
 
