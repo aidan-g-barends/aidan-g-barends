@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aidan 👋
+# Hey, I'm Aidan Barends 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&height=50&lines=Software+Engineering+Student;Full-Stack+Developer;IT+Intern;Building+Modern+Web+Applications;Turning+Ideas+Into+Software" alt="Typing SVG" />
 
