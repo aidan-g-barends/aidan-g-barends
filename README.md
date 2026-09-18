@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm **Aidan Barends**, a Software Engineering student at **Cape Peninsula University of Technology (CPUT)** and an IT Intern focused on **full-stack development and modern software engineering**.
+I'm **Aidan Barends**, a Software Engineering student at **Cape Peninsula University of Technology (CPUT)** and an IT Field Technician focused on **full-stack development and modern software engineering**.
 
 I enjoy turning ideas into functional, well-designed applications — from business websites and productivity platforms to backend systems and university projects.
 
