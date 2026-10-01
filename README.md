@@ -35,54 +35,11 @@ I'm early in my career and I know it. What this profile shows is that I finish t
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🩺 PracticeFlow CRM
-A medical practice CRM that brings patient management, appointment scheduling, clinical workflows and staff admin into one app. Built by a 6-person university team.
-**My role:** frontend screens, dashboard design and the clinical notes module.
+Live demos, screenshots and write-ups for everything I've built are on my portfolio.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase`
-[Live demo](https://practiceflow-crm-iota.vercel.app/) · [Code](https://github.com/aidan-g-barends/practiceflow-crm)
-
-### 🚌 GoldenWay
-A digital ticketing platform concept for Cape Town bus commuters, modelled on Golden Arrow. Moves ticket buying from the counter to the phone, with Supabase handling auth, data and backend logic.
-**My role:** [CONFIRM: solo or team, and what you built]
-
-`React` `Vite` `Supabase` `PostgreSQL`
-[Live demo](https://goldenwayapp.vercel.app/) · [Code](https://github.com/aidan-g-barends/GoldenWayApp)
-
-### 💅 Beauty Spot
-Website and online booking system for a Langebaan salon offering nails, lashes, facials and more. Clients browse services and book any time; the team manages the day's appointments from a private staff diary.
-
-`React` `Vite` `React Router` `Tailwind CSS` `Supabase` `PostgreSQL`
-[Live demo](https://beautyspot-eta.vercel.app/) · Code private (client project)
-
-### 🏥 MediTicket 2
-Medical practice management system covering appointments, digital tickets, payments and notifications. The backend applies Domain-Driven Design and object-oriented design patterns in Spring Boot, with a Java Swing desktop frontend.
-
-`Java` `Spring Boot` `JPA/Hibernate` `MySQL` `Java Swing`
-[Backend](https://github.com/AidanBarends/MediTicket2) · [Frontend](https://github.com/AidanBarends/MediTicketApp)
-
-### ✂️ The HairBra *(in development)*
-Barbershop platform combining appointment booking, online payments, barber profiles and a grooming product store in one customer-facing app.
-
-`React` `Supabase` `PostgreSQL` `Tailwind CSS` `Payment integration`
-[Live demo](https://the-hair-bra.vercel.app/) · [Code](https://github.com/aidan-g-barends/The_HairBra)
-
-### More work
-
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| JJS Business Solutions | Client website, live on the client's domain | React, TypeScript, Tailwind, Vite | [Site](https://jjsbussol.co.za/) · [Code](https://github.com/aidan-g-barends/jjs-website) |
-| Task Flow Pro | Team task management platform (university group project) | Laravel, PHP, MySQL | [Code](https://github.com/aidan-g-barends/Task-Flow-Pro) |
-| Task Manager App | Angular SPA talking to a Spring Boot REST API | Angular, Spring Boot, TypeScript | [Code](https://github.com/aidan-g-barends/Task-Manager-App) |
-| 2G Architecture | Website concept for a Saldanha architecture practice | Next.js, TypeScript, GSAP | [Demo](https://2-g-architecture.vercel.app/) · [Code](https://github.com/aidan-g-barends/2G-Architecture) |
-| Bouplan Ontwerpers | Website concept for a Langebaan design practice | Next.js, TypeScript, Tailwind v4 | [Demo](https://bouplan-ontwerpers.vercel.app/) · [Code](https://github.com/aidan-g-barends/BouplanOntwerpers) |
-| DFV Dental Booking | Practice website and booking system concept for a local dentist | Next.js, TypeScript, Tailwind | [Demo](https://dfv-mocha.vercel.app/) |
-| Die Strandloper | Multi-page website for a local restaurant | HTML, Tailwind, JavaScript | [Code](https://github.com/aidan-g-barends/DieStrandloper) |
-| UniExchange *(in progress)* | Campus marketplace for CPUT students (group project) | Spring Boot, JPA, MySQL, React | [Code](https://github.com/AidanBarends/UniExchange) |
-
-👉 Full write-ups and screenshots on my **[portfolio](https://aidan-barends.vercel.app/projects)**.
+👉 **[See all my projects](https://aidan-barends.vercel.app/projects)**
 
 ---
 
@@ -141,7 +98,6 @@ Before tech: waiter, barman, classroom assistant and NSRI lifeguard. Good traini
 - [ ] Graduate from CPUT at the end of 2026
 - [ ] Land a graduate / junior software developer role
 - [ ] Ship an AI-powered feature inside a real client project
-- [ ] Keep every pinned repo documented with a proper README and screenshots
 
 ---
 
