@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 I'm a final-year **Diploma in ICT: Application Development** student at the Cape Peninsula University of Technology, graduating at the end of 2026. By day I work as an **IT field technician**, running Wi-Fi installs, fixing network outages and repairing hardware for homes and businesses. The rest of the time I build software.
 
